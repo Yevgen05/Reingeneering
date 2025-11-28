@@ -6,7 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace NetSdrClientApp
+namespace NetSdrClientApp.Networking
 {
     public class NetSdrClient
     {
